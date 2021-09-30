@@ -7,3 +7,6 @@
 
 ## Module의 정의 및 종류, CommonJS vs ESM
  - https://blog.naver.com/qhanfckwsmsd/222522337615
+
+## Bundle은 무엇? 그 과정 및 중요성
+ - https://blog.naver.com/qhanfckwsmsd/222522372823
