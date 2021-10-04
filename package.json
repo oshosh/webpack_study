@@ -1,0 +1,24 @@
+{
+  "name": "webpack_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oshosh/webpack_study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oshosh/webpack_study/issues"
+  },
+  "homepage": "https://github.com/oshosh/webpack_study#readme",
+  "devDependencies": {
+    "webpack": "^5.56.0",
+    "webpack-cli": "^4.8.0"
+  }
+}
